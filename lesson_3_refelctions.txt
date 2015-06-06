@@ -17,10 +17,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
     Master/orign will keep track where we left off the orign which is the state of the remote repository that we recently synced. 
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    Every thing will be hard be case there will be no instant feed back from the team
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
