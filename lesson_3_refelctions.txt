@@ -21,7 +21,6 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
     Every thing will be hard be case there will be no instant feed back from the team
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Some new features that yuou want to test and make 
