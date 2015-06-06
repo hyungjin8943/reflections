@@ -20,5 +20,6 @@ It give me more intuitive view of the structure
 What is the result of merging two branches together? Why do we represent it int he diagram the way we do?
 It becomes a one tree that is combined with each other 
 
-What are the pros and cons of Git�셲 automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git�셲 automatic merging vs. always doing merges manually?
+Pro is that we don't have to deal with it every time we merge 
+Con is that if their is something hard to fix we need manual merging so that we can figuerit out by our selves instead of ambigous fixing ßßßßß
