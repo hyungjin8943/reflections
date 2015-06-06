@@ -6,16 +6,19 @@ What value do you think it offers?
 Staging area is the intermediate area which is going to be going to go in to the repository 
 It gives the programers to commit several files at a time 
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change? 
+Use git diff --staged       
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When making an version change that is different then the master branch.
+Making new version of the program.
+Branch can be modified differently that with the master branch.
 
 How do the diagrams help you visualize the branch structure?
+It give me more intuitive view of the structure
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it int he diagram the way we do?
+It becomes a one tree that is combined with each other 
 
 What are the pros and cons of Git�셲 automatic merging vs. always doing merges
 manually?
